@@ -1,0 +1,15 @@
+D:\projects\GitHub\study-project\WPF-project-git\bin\Debug\WPF-project-git.exe.config
+D:\projects\GitHub\study-project\WPF-project-git\bin\Debug\WPF-project-git.exe
+D:\projects\GitHub\study-project\WPF-project-git\bin\Debug\WPF-project-git.pdb
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF-project-git.csprojResolveAssemblyReference.cache
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\MainWindow.g.cs
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\App.g.cs
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF-project-git_MarkupCompile.cache
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF-project-git_MarkupCompile.lref
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\MainWindow.baml
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF-project-git.g.resources
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF_project_git.Properties.Resources.resources
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF-project-git.csproj.GenerateResource.Cache
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF-project-git.csproj.CoreCompileInputs.cache
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF-project-git.exe
+D:\projects\GitHub\study-project\WPF-project-git\obj\Debug\WPF-project-git.pdb
