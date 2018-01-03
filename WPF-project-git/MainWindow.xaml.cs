@@ -24,10 +24,15 @@ namespace WPF_project_git
         {
             InitializeComponent();
         }
-
-        private void BtnExit_Click(object sender, RoutedEventArgs e)
+        protected void Exit_Click(object sender, RoutedEventArgs e) => Close();
+        protected void Run_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
+            MessageBox.Show("Start!");
+        }
+
+        protected void Stop_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Stop programm");
         }
     }
 }

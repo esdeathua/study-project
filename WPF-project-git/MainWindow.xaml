@@ -5,9 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_project_git"
         mc:Ignorable="d"
-        Title="Hand Vision" Height="350" Width="525">
-    <Grid Height="319" VerticalAlignment="Bottom">
-        <Button x:Name="BtnExit" Content="Exit" HorizontalAlignment="Left" Margin="432,289,0,0" VerticalAlignment="Top" Width="75" Click="BtnExit_Click"/>
-
+        Title="Hand Vision" Height="349" Width="733">
+    <Grid Height="22" VerticalAlignment="Bottom" Margin="0,0,0,286">
+        <Menu Margin="10,0,357,0" Background="White" VerticalAlignment="Center">
+            <MenuItem Header="Main">
+                <MenuItem Header="Run" Click="Run_Click"></MenuItem>
+                <MenuItem Header="Stop" Click="Stop_Click"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Exit" Click="Exit_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Help">
+                <MenuItem Header="Settings"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="About"></MenuItem>
+        </Menu>
     </Grid>
 </Window>
